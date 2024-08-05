@@ -1,0 +1,3 @@
+We use dynamic arrays over static arrays(not always) cuz ,for ex:We can define a fucntion like all(x)
+#define all(x) begin(x), end(x)
+to find sum of elements , we use accumulate(all(f), 0LL) 
